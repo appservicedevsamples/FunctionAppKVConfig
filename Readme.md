@@ -1,0 +1,1 @@
+Sample Function App project that uses AddAzureKeyVault to read a KeyVault Secret as an environment variable via dependency injection
